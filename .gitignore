@@ -1,0 +1,7 @@
+autonomousTaxi/
+
+*.cfg
+
+.vscode
+
+__pycache__
